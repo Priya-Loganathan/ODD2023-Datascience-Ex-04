@@ -11,28 +11,28 @@ Exploratory data analysis is used to understand the messages within a dataset. T
 ## ALGORITHM :
 
 STEP1
-Import the built libraries required to perform EDA and outlier removal.
+ Import the built libraries required to perform EDA and outlier removal.
 
 STEP2
-Read the given csv file.
+ Read the given csv file.
 
 STEP3
-Convert the file into a dataframe and get information of the data.
+ Convert the file into a dataframe and get information of the data.
 
 STEP4
-Return the objects containing counts of unique values using (value_counts()).
+ Return the objects containing counts of unique values using (value_counts()).
 
 STEP5
-Plot the counts in the form of Histogram or Bar Graph.
+ Plot the counts in the form of Histogram or Bar Graph.
 
 STEP6
-Use seaborn the bar graph comparison of data can be viewed.
+ Use seaborn the bar graph comparison of data can be viewed.
 
 STEP7
-Find the pairwise correlation of all columns in the dataframe.corr() .
+ Find the pairwise correlation of all columns in the dataframe.corr() .
 
 STEP8
-Save the final data set into the file.
+ Save the final data set into the file.
 
 ## PROGRAM:
 
